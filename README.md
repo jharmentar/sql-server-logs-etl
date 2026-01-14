@@ -50,8 +50,8 @@ python main.py
 ```
 ## Docker
 ```
-docker build -t trends-techs .
-docker run trends-techs
+docker build -t sql-logs-etl .
+docker run sql-logs-etl
 ```
 
 ## Output
