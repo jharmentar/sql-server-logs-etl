@@ -48,6 +48,11 @@ Ensure you have the logs file at `data/logs.json` and execute the main script:
 ```bash
 python main.py
 ```
+## Docker
+```
+docker build -t trends-techs .
+docker run trends-techs
+```
 
 ## Output
 
